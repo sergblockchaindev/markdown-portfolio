@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Nature :evergreen_tree:
+2. Sports
+   1 Football 
+   2 Running
