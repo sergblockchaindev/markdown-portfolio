@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![girl on swing](https://www.freedigitalphotos.net/images/img/homepage/394230.jpg)
